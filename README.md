@@ -1,3 +1,11 @@
-Issues:
-- https://github.com/rtritto/test-pkgroll/tree/bug-quotes
-- https://github.com/rtritto/test-pkgroll/tree/bug-type-definition
+Issue: https://github.com/privatenumber/pkgroll/issues/96
+
+```sh
+yarn build
+```
+
+OR
+
+```sh
+yarn pkgroll
+```
