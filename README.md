@@ -1,2 +1,11 @@
-Issues:
-- https://github.com/rtritto/test-pkgroll/tree/bug-quotes
+Issue: https://github.com/privatenumber/pkgroll/issues/95
+
+```sh
+yarn build
+```
+
+OR
+
+```sh
+yarn pkgroll
+```
